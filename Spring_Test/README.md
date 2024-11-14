@@ -18,6 +18,7 @@ SHOW CREATE TABLE product; //不需輸入指令
 SHOW CREATE TABLE product_price; //不需輸入指令  
 
 ---------------------------------------------------------------------------------------------  
+USE test11_12  
 SET NAMES 'utf8mb4';//改顯示中文  
 SQL  
 1.查看product表  
