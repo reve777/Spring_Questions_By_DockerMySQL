@@ -1,5 +1,5 @@
 DOCKER desktop  
-1.創建mySQL Containers  
+1.創建mySQL Containers(application 用3307)  
 docker run --name mysql-container -e MYSQL_ROOT_PASSWORD=root -d -p 3307:3306 mysql:8  
 2.  
 docker exec -it mysql-container bash  
