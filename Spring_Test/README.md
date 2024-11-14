@@ -58,7 +58,7 @@ DELETE FROM `product` WHERE `id` = 105;
 DELETE FROM product_price WHERE `id` = 243;  
 
 ---------------------------------------------------------------------------------------------
-API POSTMAN
+API POSTMAN  
 [11-12.postman_collection.json](https://github.com/user-attachments/files/17746530/11-12.postman_collection.json)
 
 
